@@ -15,4 +15,4 @@ def index():
 
 @app.route('/healthcheck')
 def healthcheck():
-    return "okey"
+    return "ok"
